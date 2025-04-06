@@ -1,0 +1,29 @@
+[
+    {
+        "order_id": "O004",
+        "customer": "陳小美",
+        "items": [
+            {
+                "name": "pizza",
+                "price": 52,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "order_id": "C003",
+        "customer": "王小英",
+        "items": [
+            {
+                "name": "炒飯",
+                "price": 90,
+                "quantity": 2
+            },
+            {
+                "name": "可樂",
+                "price": 30,
+                "quantity": 1
+            }
+        ]
+    }
+]

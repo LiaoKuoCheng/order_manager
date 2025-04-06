@@ -1,0 +1,34 @@
+[
+    {
+        "order_id": "A001",
+        "customer": "ss",
+        "items": [
+            {
+                "name": "xyt",
+                "price": 90,
+                "quantity": 2
+            },
+            {
+                "name": "saf",
+                "price": 100,
+                "quantity": 1
+            },
+            {
+                "name": "fsf",
+                "price": 39,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "order_id": "A002",
+        "customer": "yy",
+        "items": [
+            {
+                "name": "cheese",
+                "price": 100,
+                "quantity": 2
+            }
+        ]
+    }
+]
